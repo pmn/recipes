@@ -13,6 +13,7 @@
 * cook it in some hot oil
 * add the paprika and curry powder
 * add the tomatoes
+* crush the tomatoes
 * add the sugar and vinegar
 * simmer for 25 minutes
 * mix and serve on a sausage
